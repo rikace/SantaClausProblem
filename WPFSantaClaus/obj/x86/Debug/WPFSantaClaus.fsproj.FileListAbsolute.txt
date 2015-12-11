@@ -1,0 +1,16 @@
+\\mac\home\documents\visual studio 2015\Projects\WPFSantaClaus\WPFSantaClaus\bin\Debug\App.XML
+\\mac\home\documents\visual studio 2015\Projects\WPFSantaClaus\WPFSantaClaus\bin\Debug\App.exe
+\\mac\home\documents\visual studio 2015\Projects\WPFSantaClaus\WPFSantaClaus\bin\Debug\App.pdb
+\\mac\home\documents\visual studio 2015\Projects\WPFSantaClaus\WPFSantaClaus\bin\Debug\FSharp.Core.dll
+\\mac\home\documents\visual studio 2015\Projects\WPFSantaClaus\WPFSantaClaus\bin\Debug\FSharp.Core.xml
+\\mac\home\documents\visual studio 2015\Projects\WPFSantaClaus\WPFSantaClaus\obj\x86\Debug\App.g.resources
+\\mac\home\documents\visual studio 2015\Projects\WPFSantaClaus\WPFSantaClaus\obj\x86\Debug\App.exe
+\\mac\home\documents\visual studio 2015\Projects\WPFSantaClaus\WPFSantaClaus\obj\x86\Debug\App.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WPFSantaClaus\WPFSantaClaus\bin\Debug\Images\doorclosed.jpg
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WPFSantaClaus\WPFSantaClaus\bin\Debug\Images\dooropen.jpg
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WPFSantaClaus\WPFSantaClaus\bin\Debug\Images\elf.jpg
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WPFSantaClaus\WPFSantaClaus\bin\Debug\Images\elf.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WPFSantaClaus\WPFSantaClaus\bin\Debug\Images\reindeer.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WPFSantaClaus\WPFSantaClaus\bin\Debug\Images\SantaClaus.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WPFSantaClaus\WPFSantaClaus\bin\Debug\Images\Sleeping-SantaClaus.png
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WPFSantaClaus\WPFSantaClaus\bin\Debug\Images\sleigh.jpeg

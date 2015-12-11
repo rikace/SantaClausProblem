@@ -1,0 +1,7 @@
+/Users/Riccardo/ToDo/SantaClausProblem/obj/Release/.NETFramework,Version=v4.5.2.AssemblyAttribute.fs
+/Users/Riccardo/ToDo/SantaClausProblem/bin/Release/SantaClausProblem.exe.config
+/Users/Riccardo/ToDo/SantaClausProblem/bin/Release/SantaClausProblem.exe.mdb
+/Users/Riccardo/ToDo/SantaClausProblem/bin/Release/SantaClausProblem.exe
+/Users/Riccardo/ToDo/SantaClausProblem/obj/Release/SantaClausProblem.exe
+/Users/Riccardo/ToDo/SantaClausProblem/obj/Release/SantaClausProblem.exe.mdb
+/Users/Riccardo/ToDo/SantaClausProblem/bin/Release/FSharp.Core.dll

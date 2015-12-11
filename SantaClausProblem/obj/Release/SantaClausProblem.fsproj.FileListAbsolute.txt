@@ -1,0 +1,8 @@
+C:\Demo\FRP-FSharp\SantaClausProblem\bin\Release\SantaClausProblem.exe.config
+C:\Demo\FRP-FSharp\SantaClausProblem\bin\Release\SantaClausProblem.XML
+C:\Demo\FRP-FSharp\SantaClausProblem\bin\Release\SantaClausProblem.exe
+C:\Demo\FRP-FSharp\SantaClausProblem\bin\Release\SantaClausProblem.pdb
+C:\Demo\FRP-FSharp\SantaClausProblem\bin\Release\FSharp.Core.dll
+C:\Demo\FRP-FSharp\SantaClausProblem\bin\Release\FSharp.Core.xml
+C:\Demo\FRP-FSharp\SantaClausProblem\obj\Release\SantaClausProblem.exe
+C:\Demo\FRP-FSharp\SantaClausProblem\obj\Release\SantaClausProblem.pdb

@@ -1,0 +1,18 @@
+C:\Demo\FRP-FSharp\SantaClausProblem\bin\Debug\SantaClausProblem.exe.config
+C:\Demo\FRP-FSharp\SantaClausProblem\bin\Debug\SantaClausProblem.XML
+C:\Demo\FRP-FSharp\SantaClausProblem\bin\Debug\SantaClausProblem.exe
+C:\Demo\FRP-FSharp\SantaClausProblem\bin\Debug\SantaClausProblem.pdb
+C:\Demo\FRP-FSharp\SantaClausProblem\bin\Debug\FSharp.Core.dll
+C:\Demo\FRP-FSharp\SantaClausProblem\bin\Debug\FSharp.Core.xml
+C:\Demo\FRP-FSharp\SantaClausProblem\obj\Debug\SantaClausProblem.fsprojResolveAssemblyReference.cache
+C:\Demo\FRP-FSharp\SantaClausProblem\obj\Debug\SantaClausProblem.exe
+C:\Demo\FRP-FSharp\SantaClausProblem\obj\Debug\SantaClausProblem.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WPFSantaClaus\SantaClausProblem\bin\Debug\SantaClausProblem.XML
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WPFSantaClaus\SantaClausProblem\obj\Debug\SantaClausProblem.fsprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WPFSantaClaus\SantaClausProblem\obj\Debug\SantaClausProblem.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WPFSantaClaus\SantaClausProblem\obj\Debug\SantaClausProblem.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WPFSantaClaus\SantaClausProblem\bin\Debug\SantaClausProblem.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WPFSantaClaus\SantaClausProblem\bin\Debug\SantaClausProblem.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WPFSantaClaus\SantaClausProblem\bin\Debug\SantaClausProblem.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WPFSantaClaus\SantaClausProblem\bin\Debug\FSharp.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WPFSantaClaus\SantaClausProblem\bin\Debug\FSharp.Core.xml

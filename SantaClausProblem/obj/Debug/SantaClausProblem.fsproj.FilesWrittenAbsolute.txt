@@ -1,0 +1,14 @@
+/Users/Riccardo/Downloads/SantaClausProblem/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.fs
+/Users/Riccardo/Downloads/SantaClausProblem/bin/Debug/SantaClausProblem.exe.config
+/Users/Riccardo/Downloads/SantaClausProblem/bin/Debug/SantaClausProblem.exe.mdb
+/Users/Riccardo/Downloads/SantaClausProblem/bin/Debug/SantaClausProblem.exe
+/Users/Riccardo/Downloads/SantaClausProblem/obj/Debug/SantaClausProblem.exe
+/Users/Riccardo/Downloads/SantaClausProblem/obj/Debug/SantaClausProblem.exe.mdb
+/Users/Riccardo/Downloads/SantaClausProblem/bin/Debug/FSharp.Core.dll
+/Users/Riccardo/ToDo/SantaClausProblem/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.fs
+/Users/Riccardo/ToDo/SantaClausProblem/bin/Debug/SantaClausProblem.exe.config
+/Users/Riccardo/ToDo/SantaClausProblem/bin/Debug/SantaClausProblem.exe.mdb
+/Users/Riccardo/ToDo/SantaClausProblem/bin/Debug/SantaClausProblem.exe
+/Users/Riccardo/ToDo/SantaClausProblem/obj/Debug/SantaClausProblem.exe
+/Users/Riccardo/ToDo/SantaClausProblem/obj/Debug/SantaClausProblem.exe.mdb
+/Users/Riccardo/ToDo/SantaClausProblem/bin/Debug/FSharp.Core.dll
